@@ -1,6 +1,5 @@
 # Table of contents
 
 * [Inicio](README.md)
+  * [pruebas/README](readme/pruebas-readme.md)
 * [Utiles](README.md)
-  * [Manual de GIT](utiles/GIT.md)
-  * [Manual de MARKDOWN](utiles/Markdown.md.md)
