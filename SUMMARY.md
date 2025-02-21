@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Inicio](README.md)
-  
-  ## Utiles
-* [Introducción](utiles/README.md.md)
+* [Introducción](introduccion.md)
 * [Manual de GIT](utiles/GIT.md)
 * [Manual de MARKDOWN](utiles/Markdown.md)
-
+* [To DO](to-do.md)
