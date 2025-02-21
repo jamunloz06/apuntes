@@ -4,4 +4,4 @@ icon: hand-wave
 
 # README
 
-Bienvenido de nuebo
+Bienvenido de nuevo
